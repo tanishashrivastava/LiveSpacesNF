@@ -1,0 +1,32 @@
+{
+  "chips": [
+    {
+      "name": "24h Trending",
+      "icon": "https://img.icons8.com/emoji/96/000000/fire.png"
+    },
+    {
+      "name": "Latest shows",
+      "icon": "https://icon-library.com/images/tv-shows-icon/tv-shows-icon-0.jpg"
+    },
+    {
+      "name": "Most Popular",
+      "icon": "https://i.pinimg.com/736x/46/d1/51/46d1518e4762a5ae656870d85a88cc29.jpg"
+    },
+    {
+      "name": "In Genesis",
+      "icon": "https://img.icons8.com/emoji/96/000000/gem-stone.png"
+    },
+    {
+      "name": "In Temple",
+      "icon": "https://img.icons8.com/emoji/96/000000/hindu-temple.png"
+    },
+    {
+      "name": "In Void",
+      "icon": "https://img.icons8.com/emoji/96/000000/tornado-emoji.png"
+    },
+    {
+      "name": "#BAYC",
+      "icon": "https://img.icons8.com/fluency/96/000000/gorilla.png"
+    }
+  ]
+}
